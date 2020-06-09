@@ -1,0 +1,28 @@
+h1 {
+    text-align: left;
+    color: teal;
+}  
+
+.navbarButton {
+    color: rgb(255, 255, 255);
+    background-color: rgb(7, 202, 202);
+}
+
+#comparisonTitle {
+    align-self: flex-start;
+}
+
+#visuals {
+    max-width: 600px;
+    width: 100%;
+}
+
+.xVsTemp {
+    width: 100%;
+    height: auto;
+}
+
+.paragraphs {
+    color: rgb(0, 0, 0);
+    
+}
